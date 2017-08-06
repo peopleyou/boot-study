@@ -7,6 +7,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>boot-logging</module>
+        <module>boot-properties</module>
+        <module>boot-common</module>
     </modules>
     <packaging>pom</packaging>
 
